@@ -1,4 +1,4 @@
 name: jekyll-bootstrap-h5bp
 markdown: redcarpet
 pygments: false
-google_analytics_account: YOUR_ACCOUNT_HERE
+google_analytics_id: YOUR_ACCOUNT_HERE
